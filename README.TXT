@@ -13,3 +13,4 @@ HOW TO START THIS PROJECT: 	Unzip sent file, open BlueJ by double-clicking the p
 AUTHORS: 					Krzysztof Szczurowski
 USER INSTRUCTIONS: 			Once project is opened in BlueJ IDE right-click available class and choose constructor 
 							to instantiate object/objects of the call Gruppy
+REPO Location: 				https://github.com/kriss3/COMP1409_Assignment1_A01013054.git
